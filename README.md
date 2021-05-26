@@ -16,6 +16,10 @@ I'm Muhammad Hamza, a 17 year old boy.
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza1311&exclude_repo=SendAnything&theme=gotham&layout=compact&card_width=310&hide_border=true" />
 </a>
 
+<a href="https://sourcekarma.vercel.app/hamza1311" align="center">
+  <img src="https://sourcekarma-og.vercel.app/api/hamza1311/github" alt="Source Karma badge for @hamza1311" />
+</a>
+
 <!--
 **hamza1311/hamza1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
