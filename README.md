@@ -8,7 +8,7 @@ I'm Muhammad Hamza, a 17 year old boy.
 **Matrix**: `@weeb69:matrix.org`
 
 ### Stats
-
+<!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hamza1311&show_icons=true&hide=stars&theme=gotham&hide_rank=true&hide_title=true&hide_border=true&include_all_commits=true" />
 </a>
@@ -18,7 +18,10 @@ I'm Muhammad Hamza, a 17 year old boy.
 
 <a href="https://sourcekarma.vercel.app/hamza1311" align="center">
   <img src="https://sourcekarma-og.vercel.app/api/hamza1311/github" alt="Source Karma badge for @hamza1311" />
-</a>
+</a> 
+-->
+
+![Metrics](https://gist.githubusercontent.com/hamza1311/36bf6b1c49baa7139a7c70399e192be9/raw/3807e3b1704487dd4837a8d43584161b17be2ec1/github-metrics.svg)
 
 <!--
 **hamza1311/hamza1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
