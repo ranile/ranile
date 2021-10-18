@@ -4,7 +4,7 @@ I'm Muhammad Hamza, a 17 year old boy.
 
 ### Contact me
 
-**Discord**: `rias chan#0267`  
+**Discord**: `Yuu#6737`  
 **Matrix**: `@weeb69:matrix.org`
 
 ### Stats
