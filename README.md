@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Muhammad Hamza, a 17 year old boy.
+I'm Muhammad Hamza, a Rust and Web Assembly enthusiast and web developer.
 
 ### Contact me
 
