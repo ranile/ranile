@@ -21,7 +21,7 @@ I'm Muhammad Hamza, a Rust and Web Assembly enthusiast and web developer.
 </a> 
 -->
 
-![Metrics](https://gist.githubusercontent.com/hamza1311/36bf6b1c49baa7139a7c70399e192be9/raw/3807e3b1704487dd4837a8d43584161b17be2ec1/github-metrics.svg)
+![Metrics](https://gist.githubusercontent.com/hamza1311/36bf6b1c49baa7139a7c70399e192be9/raw/github-metrics.svg)
 
 <!--
 **hamza1311/hamza1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
