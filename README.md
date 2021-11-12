@@ -1,14 +1,8 @@
 # Hi there 👋
 
-I'm Muhammad Hamza, a Rust and Web Assembly enthusiast and web developer.
-
-### Contact me
-
-**Discord**: `Yuu#6737`  
-**Matrix**: `@weeb69:matrix.org`
-
-### Stats
 <!-- 
+### Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hamza1311&show_icons=true&hide=stars&theme=gotham&hide_rank=true&hide_title=true&hide_border=true&include_all_commits=true" />
 </a>
@@ -22,6 +16,12 @@ I'm Muhammad Hamza, a Rust and Web Assembly enthusiast and web developer.
 -->
 
 ![Metrics](https://gist.githubusercontent.com/hamza1311/36bf6b1c49baa7139a7c70399e192be9/raw/github-metrics.svg)
+
+
+### Contact me
+
+**Discord**: `Yuu#6737`  
+**Matrix**: `@weeb69:matrix.org`
 
 <!--
 **hamza1311/hamza1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
