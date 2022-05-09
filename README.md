@@ -21,7 +21,6 @@
 ### Contact me
 
 **Discord**: `Yuu#6737`  
-**Matrix**: `@weeb69:matrix.org`
 
 <!--
 **hamza1311/hamza1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
