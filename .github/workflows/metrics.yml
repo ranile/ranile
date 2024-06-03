@@ -19,7 +19,7 @@ jobs:
           committer_gist: 36bf6b1c49baa7139a7c70399e192be9
 
           # Options
-          user: hamza1311
+          user: ranile
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Karachi
