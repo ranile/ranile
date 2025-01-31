@@ -22,7 +22,7 @@ jobs:
           user: ranile
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Karachi
+          config_timezone: Asia/Taipei
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_habits: yes
